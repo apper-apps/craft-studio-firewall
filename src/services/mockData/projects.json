@@ -1,0 +1,94 @@
+{
+  "projects": [
+    {
+      "Id": 1,
+      "title": "TechFlow Dashboard",
+      "client": "TechFlow Solutions",
+      "category": "Web Application",
+      "thumbnail": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=400&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800&h=600&fit=crop"
+      ],
+      "description": "A comprehensive analytics dashboard that provides real-time insights into business performance, featuring interactive charts, customizable reports, and advanced data visualization capabilities.",
+      "technologies": ["React", "TypeScript", "Node.js", "PostgreSQL", "AWS"],
+      "testimonial": "Craft Studio delivered exactly what we needed. The dashboard is intuitive, fast, and has significantly improved our decision-making process. Their attention to detail and technical expertise exceeded our expectations."
+    },
+    {
+      "Id": 2,
+      "title": "Bloom Wellness Platform",
+      "client": "Bloom Wellness Co.",
+      "category": "E-commerce",
+      "thumbnail": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1607083206968-13611e3d76db?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1596003906949-67221c37965c?w=800&h=600&fit=crop"
+      ],
+      "description": "An elegant e-commerce platform for wellness products, featuring subscription management, personalized recommendations, and a seamless checkout experience that increased conversion rates by 40%.",
+      "technologies": ["Next.js", "Shopify", "Stripe", "MongoDB", "Vercel"],
+      "testimonial": "The new platform has transformed our business. Sales have increased dramatically, and our customers love the user experience. The team's expertise in e-commerce is unmatched."
+    },
+    {
+      "Id": 3,
+      "title": "Artisan Marketplace",
+      "client": "Local Artisans Guild",
+      "category": "Marketplace",
+      "thumbnail": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=400&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1556742111-a301076d9d18?w=800&h=600&fit=crop"
+      ],
+      "description": "A vibrant online marketplace connecting local artisans with customers, featuring vendor management, product showcases, and integrated payment processing for seamless transactions.",
+      "technologies": ["Vue.js", "Laravel", "MySQL", "PayPal", "DigitalOcean"],
+      "testimonial": "This platform has given our artisans a professional online presence they never had before. The response from customers has been overwhelming, and sales have tripled since launch."
+    },
+    {
+      "Id": 4,
+      "title": "EduTech Learning Hub",
+      "client": "Future Learning Institute",
+      "category": "Education",
+      "thumbnail": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=600&fit=crop"
+      ],
+      "description": "An innovative online learning platform with interactive courses, progress tracking, live sessions, and collaborative tools that enhance the educational experience for students worldwide.",
+      "technologies": ["React", "Django", "WebRTC", "Redis", "AWS S3"],
+      "testimonial": "The learning platform has revolutionized how we deliver education. Student engagement is at an all-time high, and the interactive features make learning genuinely enjoyable."
+    },
+    {
+      "Id": 5,
+      "title": "FinanceFlow Mobile App",
+      "client": "FinanceFlow Fintech",
+      "category": "Mobile App",
+      "thumbnail": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=800&h=600&fit=crop"
+      ],
+      "description": "A secure mobile banking application with biometric authentication, real-time transactions, budget tracking, and investment portfolio management for modern financial needs.",
+      "technologies": ["React Native", "Firebase", "Plaid API", "Biometric SDK"],
+      "testimonial": "Security and user experience were our top priorities, and Craft Studio delivered on both fronts. Our customers love the app's simplicity and feel confident using it for their financial needs."
+    },
+    {
+      "Id": 6,
+      "title": "GreenSpace Property Portal",
+      "client": "GreenSpace Realty",
+      "category": "Real Estate",
+      "thumbnail": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=400&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=800&h=600&fit=crop"
+      ],
+      "description": "A comprehensive real estate platform with advanced search filters, virtual tours, mortgage calculators, and agent collaboration tools that streamline the property buying process.",
+      "technologies": ["Angular", "Express.js", "PostgreSQL", "Mapbox", "Cloudinary"],
+      "testimonial": "The portal has streamlined our entire operation. Agents can manage listings more efficiently, and buyers love the virtual tour feature. It's been a game-changer for our business."
+    }
+  ]
+}

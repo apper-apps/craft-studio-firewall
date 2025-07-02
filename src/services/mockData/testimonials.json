@@ -1,0 +1,58 @@
+{
+  "testimonials": [
+    {
+      "Id": 1,
+      "name": "Sarah Mitchell",
+      "company": "TechFlow Solutions",
+      "role": "CEO",
+      "content": "Working with Craft Studio was an absolute game-changer for our business. They didn't just build us a website; they created a digital experience that perfectly captures our brand essence and drives real results. The attention to detail and technical expertise is unmatched.",
+      "rating": 5,
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b47c?w=100&h=100&fit=crop&crop=face"
+    },
+    {
+      "Id": 2,
+      "name": "Marcus Chen",
+      "company": "Bloom Wellness Co.",
+      "role": "Founder",
+      "content": "The team at Craft Studio transformed our vision into reality with incredible precision. Our e-commerce platform not only looks stunning but performs flawlessly. Sales have increased by 150% since launch, and customer feedback has been overwhelmingly positive.",
+      "rating": 5,
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face"
+    },
+    {
+      "Id": 3,
+      "name": "Emily Rodriguez",
+      "company": "Future Learning Institute",
+      "role": "Director of Technology",
+      "content": "Craft Studio's approach to our educational platform was both innovative and practical. They understood our unique challenges and delivered a solution that has revolutionized how we deliver online education. Student engagement has never been higher.",
+      "rating": 5,
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face"
+    },
+    {
+      "Id": 4,
+      "name": "David Thompson",
+      "company": "Local Artisans Guild",
+      "role": "President",
+      "content": "The marketplace platform created by Craft Studio has given our artisans a professional online presence they never had before. The user interface is intuitive, and the backend management tools make it easy for our vendors to showcase their work effectively.",
+      "rating": 5,
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=face"
+    },
+    {
+      "Id": 5,
+      "name": "Jennifer Park",
+      "company": "FinanceFlow Fintech",
+      "role": "Product Manager",
+      "content": "Security and user experience were our top priorities for our mobile banking app. Craft Studio delivered on both fronts with exceptional skill. The app feels intuitive and secure, and our customers have responded with tremendous enthusiasm and trust.",
+      "rating": 5,
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&h=100&fit=crop&crop=face"
+    },
+    {
+      "Id": 6,
+      "name": "Robert Anderson",
+      "company": "GreenSpace Realty",
+      "role": "Managing Partner",
+      "content": "The real estate portal developed by Craft Studio has completely transformed how we do business. The virtual tour feature and advanced search capabilities have set us apart from competitors. Our agents love the efficiency, and clients love the experience.",
+      "rating": 5,
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face"
+    }
+  ]
+}

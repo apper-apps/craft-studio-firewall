@@ -1,0 +1,106 @@
+{
+  "services": [
+    {
+      "Id": 1,
+      "title": "Website Development",
+      "description": "Create stunning, responsive websites that captivate your audience and drive conversions. From simple landing pages to complex multi-page sites, we craft digital experiences that reflect your brand's unique identity.",
+      "icon": "Globe",
+      "features": [
+        "Responsive Design for All Devices",
+        "Search Engine Optimization (SEO)",
+        "Content Management System",
+        "Performance Optimization",
+        "Security & SSL Integration",
+        "Analytics & Tracking Setup",
+        "Social Media Integration",
+        "Contact Forms & Lead Capture"
+      ],
+      "startingPrice": 2999
+    },
+    {
+      "Id": 2,
+      "title": "Web Application Development",
+      "description": "Build powerful, scalable web applications that streamline your business processes and enhance user engagement. We create custom solutions tailored to your specific requirements and industry needs.",
+      "icon": "Code",
+      "features": [
+        "Custom Application Architecture",
+        "Database Design & Integration",
+        "User Authentication & Authorization",
+        "API Development & Integration",
+        "Real-time Features & Notifications",
+        "Payment Gateway Integration",
+        "Advanced Security Measures",
+        "Scalable Cloud Infrastructure"
+      ],
+      "startingPrice": 5999
+    },
+    {
+      "Id": 3,
+      "title": "E-commerce Solutions",
+      "description": "Launch your online store with confidence using our comprehensive e-commerce solutions. We build secure, user-friendly platforms that maximize sales and provide exceptional shopping experiences.",
+      "icon": "ShoppingCart",
+      "features": [
+        "Custom E-commerce Platform",
+        "Product Catalog Management",
+        "Shopping Cart & Checkout",
+        "Payment Processing Integration",
+        "Inventory Management System",
+        "Order Tracking & Management",
+        "Customer Account Portal",
+        "Analytics & Sales Reporting"
+      ],
+      "startingPrice": 7999
+    },
+    {
+      "Id": 4,
+      "title": "Mobile App Development",
+      "description": "Extend your digital presence with native and cross-platform mobile applications. We create intuitive, feature-rich apps that engage users and drive business growth across iOS and Android platforms.",
+      "icon": "Smartphone",
+      "features": [
+        "Native iOS & Android Development",
+        "Cross-platform Solutions",
+        "User Interface & Experience Design",
+        "Push Notifications & Messaging",
+        "Offline Functionality",
+        "App Store Optimization",
+        "Performance Monitoring",
+        "Maintenance & Updates"
+      ],
+      "startingPrice": 9999
+    },
+    {
+      "Id": 5,
+      "title": "Digital Consulting",
+      "description": "Get expert guidance on your digital strategy and technology decisions. Our consultants help you navigate the digital landscape, optimize existing systems, and plan for future growth.",
+      "icon": "Users",
+      "features": [
+        "Digital Strategy Planning",
+        "Technology Stack Assessment",
+        "Performance Optimization",
+        "Security Audit & Recommendations",
+        "User Experience Analysis",
+        "Competitive Analysis",
+        "Growth Strategy Development",
+        "Training & Knowledge Transfer"
+      ],
+      "startingPrice": 1999
+    },
+    {
+      "Id": 6,
+      "title": "Brand Identity & Design",
+      "description": "Create a compelling visual identity that sets your brand apart. From logos to complete brand guidelines, we help you establish a strong, memorable presence across all digital touchpoints.",
+      "icon": "Palette",
+      "features": [
+        "Logo Design & Brand Mark",
+        "Brand Guidelines & Style Guide",
+        "Color Palette & Typography",
+        "Marketing Material Design",
+        "Digital Asset Creation",
+        "Brand Application Examples",
+        "Social Media Templates",
+        "Brand Implementation Support"
+      ],
+      "startingPrice": 3999
+    }
+  ]
+}
